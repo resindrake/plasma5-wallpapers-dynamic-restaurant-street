@@ -1,0 +1,49 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "resin@resindrake.net",
+                "Name": "Resin Drake"
+            }
+        ],
+        "Id": "23f06fc3-91a2-4cd1-9364-6f9334658dc6",
+        "Name": "Restaurant Street by ArseniXC"
+    },
+    "Wallpaper": {
+        "Preview": "restaurant-street-day.jpg",
+        "Smooth": true,
+        "Type": "solar",
+        "MetaData": [
+            {
+                "Azimuth": 74,
+                "Elevation": -6,
+                "FileName": "restaurant-street-night.jpg"
+            },
+            {
+                "Azimuth": 71.6,
+                "Elevation": -0.53,
+                "FileName": "restaurant-street-sunset.jpg"
+            },
+            {
+                "Azimuth": 67.48,
+                "Elevation": 4.91,
+                "FileName": "restaurant-street-day.jpg"
+            },
+            {
+                "Azimuth": 292.9,
+                "Elevation": 5.21,
+                "FileName": "restaurant-street-day.jpg"
+            },
+            {
+                "Azimuth": 288.64,
+                "Elevation": -0.34,
+                "FileName": "restaurant-street-sunset.jpg"
+            },
+            {
+                "Azimuth": 284.58,
+                "Elevation": -6.69,
+                "FileName": "restaurant-street-night.jpg"
+            }
+        ]
+    }
+}
